@@ -1,52 +1,44 @@
-<!-- Profile Greeting -->
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm **Rudra Kothari**! 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm **kenxsak**! 
 
-<!-- Big Aesthetic Banner -->
-## <img src="https://media.giphy.com/media/2seKKLp1n0sEeJLYTK/giphy.gif" height="600">
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;FinTech+Enthusiast+%F0%9F%92%B0;3D+Artist+%26+Game+Dev+%F0%9F%8E%AE;AI+Explorer+%F0%9F%A4%96)](https://git.io/typing-svg)
+  
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
----
+</div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-
-
-
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="40px">
-
-
-
 ```python
 class KenxSak:
-    def init(self):
+    def __init__(self):
         self.name = "kenxsak"
         self.role = "Developer @ TechMandela LLP"
         self.education = "🎓 Bhausaheb Vartak Polytechnic"
         self.location = "🌏 India"
-        self.passions = ["AI", "3D Modeling", "Gaming"]
+        self.passions = ["FinTech", "AI", "3D Modeling", "Gaming"]
         self.current_focus = "Building innovative solutions that matter"
 ```
-
-
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A bit more about me...
-- <img src="https://media.giphy.com/media/1n3mo5kLz2jqIhOCo9/giphy.gif" width="28"/> **Developer at TechMandela LLP** - Working on cutting-edge SaaS solutions
-- <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="28"/> **Student at Bhausaheb Vartak Polytechnic** - Always learning, always growing
-- <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="28"/> **Specializing in AI and Web Technologies**
-- <img src="https://media.giphy.com/media/np6TjKTur1wI4/giphy.gif" width="28"/> **3D Modeling & Game Dev** - Creating anime-inspired fantasy worlds
-- <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="28"/> **Open Source Enthusiast** - Building tools that help developers
-- <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="28"/> Ask me about **Python, 3D Art, or anything tech!**
 
----
+- 🏢 **Developer at TechMandela LLP** - Working on cutting-edge SaaS solutions
+- 🎓 **Student at Bhausaheb Vartak Polytechnic** - Always learning, always growing
+- 💡 **Specializing in FinTech Solutions, AI, and Web Technologies**
+- 🎮 **3D Modeling & Game Dev** - Creating anime-inspired fantasy worlds
+- 🚀 **Open Source Enthusiast** - Building tools that help developers
+- 💬 Ask me about **Python, Trading Systems, 3D Art, or anything tech!**
 
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FFD43B) <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="26"/>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=00FF88) <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="26"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=00FF88)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=00FF88)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=E11F21)
@@ -59,29 +51,27 @@ class KenxSak:
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=00FF88)
 
 ### 🚀 Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="26"/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  
+
 ### 🎨 Creative Tools
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=00FF88) <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="26"/>
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-313131?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=00FF88) <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="26"/>
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=00FF88)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-313131?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=00FF88)
 
 </div>
 
----
+## 🌱 Currently Learning
 
-## <img src="https://media.giphy.com/media/kMqJ9CL7656fK/giphy.gif" width="70"> Currently Learning
 <div align="center">
-  <img src="https://img.shields.io/badge/🎮_Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=00FF88" /> <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" height="28"/>
-  <img src="https://img.shields.io/badge/🎨_Blender_3D-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=E87D0D" /> <img src="https://media.giphy.com/media/j5hwlUMYT0yG82sRZ6/giphy.gif" width="26"/>
-  <img src="https://img.shields.io/badge/🤖_Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=00FF88" /> <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="28"/>
+  <img src="https://img.shields.io/badge/🎮_Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=00FF88" />
+  <img src="https://img.shields.io/badge/🎨_Blender_3D-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=E87D0D" />
+  <img src="https://img.shields.io/badge/🤖_Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=00FF88" />
+  <img src="https://img.shields.io/badge/📊_Advanced_FinTech-00897B?style=for-the-badge&logo=stripe&logoColor=white&labelColor=008CDD" />
 </div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -89,12 +79,13 @@ class KenxSak:
   
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **🎤 VoiceChatAI** <img src="https://media.giphy.com/media/wAdqTDf6x531dkivz8/giphy.gif" width="22"/> | Multilingual voice chatbot for sales & support | `Gemini API` `Firebase` `Python` |
-| **🖼️ EraseBG** <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="22"/> | Background removal web application | `AI/ML` `JavaScript` `Web API` |
-| **🎮 3D Character Creator** <img src="https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif" width="22"/> | Anime-style low-poly character generator | `Blender` `Python` `AI Tools` |
+| **🎤 VoiceChatAI** | Multilingual voice chatbot for sales & support | `Gemini API` `Firebase` `Python` |
+| **🖼️ EraseBG** | Background removal web application | `AI/ML` `JavaScript` `Web API` |
+| **📈 Trading Platform** | Indian market trading system with Heikin Ashi charts | `Python` `Upstox API` `TradingView` |
+| **🎮 3D Character Creator** | Anime-style low-poly character generator | `Blender` `Python` `AI Tools` |
+| **💼 Posible POS** | SaaS Point of Sale solution | `Full Stack` `Cloud` `FinTech` |
 
 </div>
-
 
 <div align="center">
   
@@ -104,8 +95,6 @@ class KenxSak:
   [![📧 Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
   
 </div>
-
----
 
 ## 📊 GitHub Stats
 
@@ -123,85 +112,79 @@ class KenxSak:
   
 </div>
 
----
-
 ## 🏆 Achievements & Badges
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🔥_Open_Source_Contributor-00FF88?style=for-the-badge" /> <img src="https://media.giphy.com/media/A6aHBCFqlE0Rq/giphy.gif" width="34"/>
-  <img src="https://img.shields.io/badge/💡_Problem_Solver-FFD700?style=for-the-badge" /> <img src="https://media.giphy.com/media/1n3mo5kLz2jqIhOCo9/giphy.gif" width="34"/>
-  <img src="https://img.shields.io/badge/🚀_Innovation_Enthusiast-FF6B6B?style=for-the-badge" /> <img src="https://media.giphy.com/media/LoHnEN2VwlCz4/giphy.gif" width="34"/>
-  <img src="https://img.shields.io/badge/🎮_Game_Dev_Explorer-9B59B6?style=for-the-badge" /> <img src="https://media.giphy.com/media/hcUZl4dzpJ3nK/giphy.gif" width="34"/>
-  <img src="https://img.shields.io/badge/🎨_3D_Artist-3498DB?style=for-the-badge" /> <img src="https://media.giphy.com/media/26Ffabd5CJ1U6n3Bi/giphy.gif" width="34"/>
+  
+  ![](https://github-profile-trophy.vercel.app/?username=kenxsak&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7&title_color=00FF88)
+  
+  <img src="https://img.shields.io/badge/🔥_Open_Source_Contributor-00FF88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💡_Problem_Solver-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_Innovation_Enthusiast-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎮_Game_Dev_Explorer-9B59B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎨_3D_Artist-3498DB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💰_FinTech_Developer-2ECC71?style=for-the-badge" />
+  
 </div>
-
----
 
 ## 🎯 Fun Zone
 
 <div align="center">
-  ### 🎮 When I'm not coding, you'll find me:
-  <img src="https://media.giphy.com/media/GPt4P3S0C6XMc/giphy.gif" width="24"/> <img src="https://media.giphy.com/media/B7odR9C4QZfYg/giphy.gif" width="24"/>
   
-
-
+  ### 🎮 When I'm not coding, you'll find me:
+  
   ```javascript
   const hobbies = {
     gaming: ["VALORANT 🎯", "Genshin Impact ⚔️", "Open-world RPGs 🗺️"],
     creative: ["3D Modeling 🎨", "Anime Character Design ✨", "Digital Art 🖼️"],
-    learning: ["New Tech Stacks 📚", "AI/ML 🤖"],
+    learning: ["New Tech Stacks 📚", "Trading Strategies 📈", "AI/ML 🤖"],
     fun: ["Card Games 🃏", "Photography 📸", "Exploring New Tools 🔧"]
-};
+  };
   ```
   
-</div>
-
-
 </div>
 
 ## 🌈 Mood Board
 
 <div align="center">
-
-<!-- Tenor GIF 1 - Aesthetic Pink -->
-<img src="https://media.tenor.com/hCOXMXaVUfAAAAAC/aesthetic-pink.gif" width="30%" />
-
-<!-- Tenor GIF 2 - Kronk Reaction -->
-<img src="https://media.tenor.com/ycXhNES95v8AAAAC/kronk-reaction.gif" width="30%" />
-
-<!-- Tenor GIF 3 - Silly Guy -->
-<img src="https://media.tenor.com/nSw2bMqyxoEAAAAC/silly-silly-guy.gif" width="30%" />
-
+  
+  <!-- Tenor GIF 1 - Aesthetic Pink -->
+  <img src="https://media.tenor.com/hCOXMXaVUfAAAAAC/aesthetic-pink.gif" width="30%" />
+  
+  <!-- Tenor GIF 2 - Kronk Reaction -->
+  <img src="https://media.tenor.com/ycXhNES95v8AAAAC/kronk-reaction.gif" width="30%" />
+  
+  <!-- Tenor GIF 3 - Silly Guy -->
+  <img src="https://media.tenor.com/nSw2bMqyxoEAAAAC/silly-silly-guy.gif" width="30%" />
+  
 </div>
 
 ## 💬 Random Dev Quote
 
 <div align="center">
-
-!
-
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_color=00FF88)
+  
 </div>
 
 ## 🎵 Vibing to
 
 <div align="center">
-
-[!Spotify](https://open.spotify.com/user/0ap8lroq6tsaafwlbvxuj0ya3?si=89556c2838714a5e&nd=1&dlsi=e087344fc9094d85)
-
+  
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00FF88)](https://open.spotify.com/user/kenxsak)
+  
 </div>
 
 ---
 
 <div align="center">
-
-### 🌟 Thanks for visiting! Let's build something amazing together! 🌟
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,24,28&height=100&section=footer&animation=twinkling" width="100%" />
-
-!Visitor Count
-
-<img src="https://img.shields.io/badge/Made_with_💚_by-kenxsak-00FF88?style=for-the-badge" />
-
-</div>
-
+  
+  ### 🌟 Thanks for visiting! Let's build something amazing together! 🌟
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,24,28&height=100&section=footer&animation=twinkling" width="100%" />
+  
+  ![Visitor Count](https://profile-counter.glitch.me/kenxsak/count.svg?color=00FF88)
+  
+  <img src="https://img.shields.io/badge/Made_with_💚_by-kenxsak-00FF88?style=for-the-badge" />
+  
 </div>
