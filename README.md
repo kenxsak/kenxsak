@@ -27,57 +27,61 @@ class KenxSak:
 ```
 
 
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A bit more about me...
+- <img src="https://media.giphy.com/media/1n3mo5kLz2jqIhOCo9/giphy.gif" width="28"/> **Developer at TechMandela LLP** - Working on cutting-edge SaaS solutions
+- <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="28"/> **Student at Bhausaheb Vartak Polytechnic** - Always learning, always growing
+- <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="28"/> **Specializing in AI and Web Technologies**
+- <img src="https://media.giphy.com/media/np6TjKTur1wI4/giphy.gif" width="28"/> **3D Modeling & Game Dev** - Creating anime-inspired fantasy worlds
+- <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="28"/> **Open Source Enthusiast** - Building tools that help developers
+- <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="28"/> Ask me about **Python, 3D Art, or anything tech!**
 
-- 🏢 **Developer at TechMandela LLP** - Working on cutting-edge SaaS solutions
-- 🎓 **Student at Bhausaheb Vartak Polytechnic** - Always learning, always growing
-- 💡 **Specializing in AI and Web Technologies**
-- 🎮 **3D Modeling & Game Dev** - Creating anime-inspired fantasy worlds
-- 🚀 **Open Source Enthusiast** - Building tools that help developers
-- 💬 Ask me about **Python, 3D Art, or anything tech!**
+---
 
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
 ### 💻 Languages
-!Python
-!JavaScript
-!TypeScript
-!C++
-!Java
-!HTML5
-!CSS3
-!SQL
-!C#
-!PHP
-!Go
-!Rust
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FFD43B) <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="26"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=00FF88) <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="26"/>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=00FF88)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=E11F21)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=00FF88)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=264DE4)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=00FF88)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=512BD4)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=00FF88)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=00ACD7)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=00FF88)
 
 ### 🚀 Frameworks & Tools
-!React
-!Node.js
-!Firebase
-!Git
-!Docker
-!TensorFlow
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="26"/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  
 ### 🎨 Creative Tools
-!Blender
-!Unreal Engine
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=00FF88) <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="26"/>
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-313131?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=00FF88) <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="26"/>
 
 </div>
 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR2bmVhNjBvbXA1bHlwNzN5Z3d6OTZnaHYxcDE3ZDhvYWF3czY2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kMqJ9CL7656fK/giphy.gif" width="70"> **Currently Learning**
+---
 
+## <img src="https://media.giphy.com/media/kMqJ9CL7656fK/giphy.gif" width="70"> Currently Learning
 <div align="center">
-  <img src="https://img.shields.io/badge/🎮_Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=00FF88" />
-  <img src="https://img.shields.io/badge/🎨_Blender_3D-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=E87D0D" />
-  <img src="https://img.shields.io/badge/🤖_Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=00FF88" />
+  <img src="https://img.shields.io/badge/🎮_Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=00FF88" /> <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" height="28"/>
+  <img src="https://img.shields.io/badge/🎨_Blender_3D-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=E87D0D" /> <img src="https://media.giphy.com/media/j5hwlUMYT0yG82sRZ6/giphy.gif" width="26"/>
+  <img src="https://img.shields.io/badge/🤖_Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=00FF88" /> <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="28"/>
 </div>
 
+---
 
 ## 🚀 Featured Projects
 
@@ -85,20 +89,23 @@ class KenxSak:
   
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **🎤 VoiceChatAI** | Multilingual voice chatbot for sales & support | `Gemini API` `Firebase` `Python` |
-| **🖼️ EraseBG** | Background removal web application | `AI/ML` `JavaScript` `Web API` |
-| **🎮 3D Character Creator** | Anime-style low-poly character generator | `Blender` `Python` `AI Tools` |
+| **🎤 VoiceChatAI** <img src="https://media.giphy.com/media/wAdqTDf6x531dkivz8/giphy.gif" width="22"/> | Multilingual voice chatbot for sales & support | `Gemini API` `Firebase` `Python` |
+| **🖼️ EraseBG** <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="22"/> | Background removal web application | `AI/ML` `JavaScript` `Web API` |
+| **🎮 3D Character Creator** <img src="https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif" width="22"/> | Anime-style low-poly character generator | `Blender` `Python` `AI Tools` |
 
 </div>
+
 
 <div align="center">
   
-  [!🚀 View Portfolio](#)
-  [!💼 LinkedIn](#)
-  [!🐦 Twitter](#)
-  [!📧 Email](#)
+  [![🚀 View Portfolio](https://img.shields.io/badge/🚀_View_Portfolio-00FF88?style=for-the-badge&logo=github&logoColor=black)](#)
+  [![💼 LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+  [![🐦 Twitter](https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+  [![📧 Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
   
 </div>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -116,26 +123,27 @@ class KenxSak:
   
 </div>
 
+---
+
 ## 🏆 Achievements & Badges
 
 <div align="center">
-  
-  !
-  
-  <img src="https://img.shields.io/badge/🔥_Open_Source_Contributor-00FF88?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💡_Problem_Solver-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀_Innovation_Enthusiast-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎮_Game_Dev_Explorer-9B59B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎨_3D_Artist-3498DB?style=for-the-badge" />
-  
+  <img src="https://img.shields.io/badge/🔥_Open_Source_Contributor-00FF88?style=for-the-badge" /> <img src="https://media.giphy.com/media/A6aHBCFqlE0Rq/giphy.gif" width="34"/>
+  <img src="https://img.shields.io/badge/💡_Problem_Solver-FFD700?style=for-the-badge" /> <img src="https://media.giphy.com/media/1n3mo5kLz2jqIhOCo9/giphy.gif" width="34"/>
+  <img src="https://img.shields.io/badge/🚀_Innovation_Enthusiast-FF6B6B?style=for-the-badge" /> <img src="https://media.giphy.com/media/LoHnEN2VwlCz4/giphy.gif" width="34"/>
+  <img src="https://img.shields.io/badge/🎮_Game_Dev_Explorer-9B59B6?style=for-the-badge" /> <img src="https://media.giphy.com/media/hcUZl4dzpJ3nK/giphy.gif" width="34"/>
+  <img src="https://img.shields.io/badge/🎨_3D_Artist-3498DB?style=for-the-badge" /> <img src="https://media.giphy.com/media/26Ffabd5CJ1U6n3Bi/giphy.gif" width="34"/>
 </div>
+
+---
 
 ## 🎯 Fun Zone
 
 <div align="center">
-  
   ### 🎮 When I'm not coding, you'll find me:
+  <img src="https://media.giphy.com/media/GPt4P3S0C6XMc/giphy.gif" width="24"/> <img src="https://media.giphy.com/media/B7odR9C4QZfYg/giphy.gif" width="24"/>
   
+
 
   ```javascript
   const hobbies = {
