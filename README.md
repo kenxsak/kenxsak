@@ -1,20 +1,20 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm **Rudra Kothari**! 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29xM2tlbzh6dHR5d3Q4Z2R6enJsZGc4ZW9heXA3aWFmaGt1bmZkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2seKKLp1n0sEeJLYTK/giphy.gif" height="400" width="1000"> 
-
-
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29xM2tlbzh6dHR5d3Q4Z2R6enJsZGc4ZW9heXA3aWFmaGt1bmZkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2seKKLp1n0sEeJLYTK/giphy.gif" height="300" width="1000"> 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
+
 ```python
 class KenxSak:
-    def __init__(self):
+    def init(self):
         self.name = "kenxsak"
         self.role = "Developer @ TechMandela LLP"
         self.education = "🎓 Bhausaheb Vartak Polytechnic"
         self.location = "🌏 India"
-        self.passions = ["FinTech", "AI", "3D Modeling", "Gaming"]
+        self.passions = ["AI", "3D Modeling", "Gaming"]
         self.current_focus = "Building innovative solutions that matter"
 ```
+
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
@@ -22,10 +22,10 @@ class KenxSak:
 
 - 🏢 **Developer at TechMandela LLP** - Working on cutting-edge SaaS solutions
 - 🎓 **Student at Bhausaheb Vartak Polytechnic** - Always learning, always growing
-- 💡 **Specializing in FinTech Solutions, AI, and Web Technologies**
+- 💡 **Specializing in AI and Web Technologies**
 - 🎮 **3D Modeling & Game Dev** - Creating anime-inspired fantasy worlds
 - 🚀 **Open Source Enthusiast** - Building tools that help developers
-- 💬 Ask me about **Python, Trading Systems, 3D Art, or anything tech!**
+- 💬 Ask me about **Python, 3D Art, or anything tech!**
 
 ## 🛠️ Tech Stack & Skills
 
@@ -65,7 +65,6 @@ class KenxSak:
   <img src="https://img.shields.io/badge/🎮_Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=00FF88" />
   <img src="https://img.shields.io/badge/🎨_Blender_3D-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=E87D0D" />
   <img src="https://img.shields.io/badge/🤖_Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=00FF88" />
-  <img src="https://img.shields.io/badge/📊_Advanced_FinTech-00897B?style=for-the-badge&logo=stripe&logoColor=white&labelColor=008CDD" />
 </div>
 
 ## 🚀 Featured Projects
@@ -76,9 +75,7 @@ class KenxSak:
 |---------|-------------|------------|
 | **🎤 VoiceChatAI** | Multilingual voice chatbot for sales & support | `Gemini API` `Firebase` `Python` |
 | **🖼️ EraseBG** | Background removal web application | `AI/ML` `JavaScript` `Web API` |
-| **📈 Trading Platform** | Indian market trading system with Heikin Ashi charts | `Python` `Upstox API` `TradingView` |
 | **🎮 3D Character Creator** | Anime-style low-poly character generator | `Blender` `Python` `AI Tools` |
-| **💼 Posible POS** | SaaS Point of Sale solution | `Full Stack` `Cloud` `FinTech` |
 
 </div>
 
@@ -111,14 +108,13 @@ class KenxSak:
 
 <div align="center">
   
-  ![](https://github-profile-trophy.vercel.app/?username=kenxsak&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7&title_color=00FF88)
+  !
   
   <img src="https://img.shields.io/badge/🔥_Open_Source_Contributor-00FF88?style=for-the-badge" />
   <img src="https://img.shields.io/badge/💡_Problem_Solver-FFD700?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🚀_Innovation_Enthusiast-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎮_Game_Dev_Explorer-9B59B6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎨_3D_Artist-3498DB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💰_FinTech_Developer-2ECC71?style=for-the-badge" />
   
 </div>
 
@@ -128,58 +124,62 @@ class KenxSak:
   
   ### 🎮 When I'm not coding, you'll find me:
   
+
   ```javascript
   const hobbies = {
     gaming: ["VALORANT 🎯", "Genshin Impact ⚔️", "Open-world RPGs 🗺️"],
     creative: ["3D Modeling 🎨", "Anime Character Design ✨", "Digital Art 🖼️"],
-    learning: ["New Tech Stacks 📚", "Trading Strategies 📈", "AI/ML 🤖"],
+    learning: ["New Tech Stacks 📚", "AI/ML 🤖"],
     fun: ["Card Games 🃏", "Photography 📸", "Exploring New Tools 🔧"]
-  };
+};
   ```
   
+</div>
+
+
 </div>
 
 ## 🌈 Mood Board
 
 <div align="center">
-  
-  <!-- Tenor GIF 1 - Aesthetic Pink -->
-  <img src="https://media.tenor.com/hCOXMXaVUfAAAAAC/aesthetic-pink.gif" width="30%" />
-  
-  <!-- Tenor GIF 2 - Kronk Reaction -->
-  <img src="https://media.tenor.com/ycXhNES95v8AAAAC/kronk-reaction.gif" width="30%" />
-  
-  <!-- Tenor GIF 3 - Silly Guy -->
-  <img src="https://media.tenor.com/nSw2bMqyxoEAAAAC/silly-silly-guy.gif" width="30%" />
-  
+
+<!-- Tenor GIF 1 - Aesthetic Pink -->
+<img src="https://media.tenor.com/hCOXMXaVUfAAAAAC/aesthetic-pink.gif" width="30%" />
+
+<!-- Tenor GIF 2 - Kronk Reaction -->
+<img src="https://media.tenor.com/ycXhNES95v8AAAAC/kronk-reaction.gif" width="30%" />
+
+<!-- Tenor GIF 3 - Silly Guy -->
+<img src="https://media.tenor.com/nSw2bMqyxoEAAAAC/silly-silly-guy.gif" width="30%" />
+
 </div>
 
 ## 💬 Random Dev Quote
 
 <div align="center">
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_color=00FF88)
-  
+
+!
+
 </div>
 
 ## 🎵 Vibing to
 
 <div align="center">
-  
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00FF88)](https://open.spotify.com/user/0ap8lroq6tsaafwlbvxuj0ya3?si=89556c2838714a5e&nd=1&dlsi=e087344fc9094d85)
-  
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00FF88)](https://open.spotify.com/user/0ap8lroq6tsaafwlbvxuj0ya3?si=89556c2838714a5e&nd=1&dlsi=e087344fc9094d85)
+
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 🌟 Thanks for visiting! Let's build something amazing together! 🌟
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,24,28&height=100&section=footer&animation=twinkling" width="100%" />
-  
-  ![Visitor Count](https://profile-counter.glitch.me/kenxsak/count.svg?color=00FF88)
-  
-  <img src="https://img.shields.io/badge/Made_with_💚_by-kenxsak-00FF88?style=for-the-badge" />
-  
+
+### 🌟 Thanks for visiting! Let's build something amazing together! 🌟
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,24,28&height=100&section=footer&animation=twinkling" width="100%" />
+
+![Visitor Count](https://profile-counter.glitch.me/kenxsak/count.svg?color=00FF88)
+
+<img src="https://img.shields.io/badge/Made_with_💚_by-kenxsak-00FF88?style=for-the-badge" />
+
 </div>
