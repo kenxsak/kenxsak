@@ -59,7 +59,7 @@ class KenxSak:
 
 </div>
 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR2bmVhNjBvbXA1bHlwNzN5Z3d6OTZnaHYxcDE3ZDhvYWF3czY2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kMqJ9CL7656fK/giphy.gif" width="90"> Currently Learning
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR2bmVhNjBvbXA1bHlwNzN5Z3d6OTZnaHYxcDE3ZDhvYWF3czY2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kMqJ9CL7656fK/giphy.gif" width="70"> **Currently Learning**
 
 <div align="center">
   <img src="https://img.shields.io/badge/🎮_Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=00FF88" />
