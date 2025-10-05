@@ -12,6 +12,9 @@
 
 
 <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="40px">
+
+
+
 ```python
 class KenxSak:
     def init(self):
@@ -40,30 +43,30 @@ class KenxSak:
 <div align="center">
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FFD43B)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=00FF88)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=00FF88)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=E11F21)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=00FF88)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=264DE4)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=00FF88)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=512BD4)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=00FF88)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=00ACD7)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=00FF88)
+!Python
+!JavaScript
+!TypeScript
+!C++
+!Java
+!HTML5
+!CSS3
+!SQL
+!C#
+!PHP
+!Go
+!Rust
 
 ### 🚀 Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+!React
+!Node.js
+!Firebase
+!Git
+!Docker
+!TensorFlow
 
 ### 🎨 Creative Tools
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=00FF88)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-313131?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=00FF88)
+!Blender
+!Unreal Engine
 
 </div>
 
@@ -90,10 +93,10 @@ class KenxSak:
 
 <div align="center">
   
-  [![🚀 View Portfolio](https://img.shields.io/badge/🚀_View_Portfolio-00FF88?style=for-the-badge&logo=github&logoColor=black)](#)
-  [![💼 LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-  [![🐦 Twitter](https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-  [![📧 Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+  [!🚀 View Portfolio](#)
+  [!💼 LinkedIn](#)
+  [!🐦 Twitter](#)
+  [!📧 Email](#)
   
 </div>
 
@@ -175,7 +178,7 @@ class KenxSak:
 
 <div align="center">
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00FF88)](https://open.spotify.com/user/0ap8lroq6tsaafwlbvxuj0ya3?si=89556c2838714a5e&nd=1&dlsi=e087344fc9094d85)
+[!Spotify](https://open.spotify.com/user/0ap8lroq6tsaafwlbvxuj0ya3?si=89556c2838714a5e&nd=1&dlsi=e087344fc9094d85)
 
 </div>
 
@@ -187,8 +190,10 @@ class KenxSak:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,24,28&height=100&section=footer&animation=twinkling" width="100%" />
 
-![Visitor Count](https://profile-counter.glitch.me/kenxsak/count.svg?color=00FF88)
+!Visitor Count
 
 <img src="https://img.shields.io/badge/Made_with_💚_by-kenxsak-00FF88?style=for-the-badge" />
+
+</div>
 
 </div>
