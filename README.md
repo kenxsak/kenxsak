@@ -11,7 +11,8 @@
 
 
 
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="40px">```python
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="40px">
+```python
 class KenxSak:
     def init(self):
         self.name = "kenxsak"
