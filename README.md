@@ -2,7 +2,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm **Rudra Kothari**! 
 
 <!-- Big Aesthetic Banner -->
-## <img src="https://media.giphy.com/media/2seKKLp1n0sEeJLYTK/giphy.gif" height="120">
+## <img src="https://media.giphy.com/media/2seKKLp1n0sEeJLYTK/giphy.gif" height="600">
 
 ---
 
