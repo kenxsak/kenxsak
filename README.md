@@ -1,9 +1,8 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm **kenxsak**! 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm **Rudra Kothari**! 
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;FinTech+Enthusiast+%F0%9F%92%B0;3D+Artist+%26+Game+Dev+%F0%9F%8E%AE;AI+Explorer+%F0%9F%A4%96)](https://git.io/typing-svg)
-  
+ 
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
 </div>
