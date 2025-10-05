@@ -1,5 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm **Rudra Kothari**! 
-## <img src="https://tenor.com/view/silly-silly-guy-cursed-cursed-emoji-cute-gif-13956748588140445655" width="30"> 
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnd6NGY4NHIza3h6MWl4dng1Y29yNmZxejhoejg4dWltMmZtZ3VvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jUJgL0iByjsAS2MQH1/giphy.gif" width="30"> 
 
 
 
