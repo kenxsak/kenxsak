@@ -57,9 +57,11 @@ class KenxSak:
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=00FF88)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-313131?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=00FF88)
 
+</div>
+
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR2bmVhNjBvbXA1bHlwNzN5Z3d6OTZnaHYxcDE3ZDhvYWF3czY2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kMqJ9CL7656fK/giphy.gif" width="90"> Currently Learning
+
 <div align="center">
-  <h2>Currently Learning</h2>
-   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR2bmVhNjBvbXA1bHlwNzN5Z3d6OTZnaHYxcDE3ZDhvYWF3czY2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kMqJ9CL7656fK/giphy.gif" height="50" width="90">
   <img src="https://img.shields.io/badge/🎮_Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=00FF88" />
   <img src="https://img.shields.io/badge/🎨_Blender_3D-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=E87D0D" />
   <img src="https://img.shields.io/badge/🤖_Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=00FF88" />
