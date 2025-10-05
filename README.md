@@ -1,5 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm **Rudra Kothari**! 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29xM2tlbzh6dHR5d3Q4Z2R6enJsZGc4ZW9heXA3aWFmaGt1bmZkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2seKKLp1n0sEeJLYTK/giphy.gif" height="50" width="1000"> 
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29xM2tlbzh6dHR5d3Q4Z2R6enJsZGc4ZW9heXA3aWFmaGt1bmZkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2seKKLp1n0sEeJLYTK/giphy.gif" height="300" width="1000"> 
 
 
 
