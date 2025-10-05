@@ -1,7 +1,14 @@
+<!-- Profile Greeting -->
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm **Rudra Kothari**! 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29xM2tlbzh6dHR5d3Q4Z2R6enJsZGc4ZW9heXA3aWFmaGt1bmZkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2seKKLp1n0sEeJLYTK/giphy.gif" height="400" width="1000"> 
+
+<!-- Big Aesthetic Banner -->
+## <img src="https://media.giphy.com/media/2seKKLp1n0sEeJLYTK/giphy.gif" height="120">
+
+---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="40px">
+
 
 
 ```python
